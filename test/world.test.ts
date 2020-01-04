@@ -1,4 +1,4 @@
-import assert = require("assert");
+import * as assert from "assert";
 import World from "../src/world";
 import Cell from "../src/cell";
 

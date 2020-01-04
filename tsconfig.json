@@ -3,6 +3,8 @@
         "strict": true,
         "outDir": "build/",
         "target": "esNext",
-        "sourceMap": true
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": true
     }
 }
